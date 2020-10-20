@@ -63,9 +63,12 @@ There are 64% men dead and only 36% women nead, meaning men are dying more.
 
 
 ## Inferential results 
-
-
-
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
+More men died than expected and less women died than expected. Meaning men are more vulnerable to it. P value is 9e^-4, which is a very small number. 
 
 ## Conclusions
 
