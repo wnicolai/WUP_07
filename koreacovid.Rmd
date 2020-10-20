@@ -72,3 +72,4 @@ More men died than expected and less women died than expected. Meaning men are m
 
 ## Conclusions
 
+Conclusion based on data, is that men infected with COVID are dying at a higher rate then the infected women.
